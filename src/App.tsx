@@ -1,7 +1,9 @@
+import { LineGraph } from "./modules";
+
 function App() {
   return (
-    <div className="App">
-      
+    <div>
+      <LineGraph />
     </div>
   );
 }
